@@ -1,0 +1,4 @@
+#linux
+
+g++ -std=c++14 -O2 -Wall -Wno-switch -Wno-unused-variable -Wno-sign-compare -Wno-unused-but-set-variable -Wno-deprecated -o a8rawconv compileall.cpp -lm
+
